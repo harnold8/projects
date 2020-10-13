@@ -1,5 +1,5 @@
 # Pathfinding Algorithms
-As a personal project, I implemented the A*, Dijkstra, Greedy Best First Search and the Breadth-First Search algorithm with a Pygame GUI.
+As a personal project, I implemented the A*, Dijkstra, Greedy Best First Search and the Breadth-First Search algorithm with a Pygame GUI (path_algos.py).
 
 In this example the Dijkstra algorithm can be seen. The orange node depicts the start point, the turquoise node the end point and black nodes correspond to an obstacle. The algorithm proceeds through the grid and marks visited nodes in light blue. Finally, the shortest path between the two nodes is highlighted in yellow.
 
