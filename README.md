@@ -1,4 +1,4 @@
-# projects
+# Projects
 A variation of python projects
 
 ## Pathfinding Algorithms
@@ -6,7 +6,7 @@ As a personal project, I implemented the A*, Dijkstra, Greedy Best First Search 
 
 In this example the Dijkstra algorithm can be seen. The orange node depicts the start point, the turquoise node the end point and black nodes correspond to an obstacle. The algorithm proceeds through the grid and marks visited nodes in light blue. Finally, the shortest path between the two nodes is highlighted in yellow.
 
-![](dijk.gif)
+![](pathfinding_algorithms/dijk.gif)
 
 ## Scraper Script
 A scraper script I used at the launch of new graphics cards. Even though the demand for the product was higher than its availability, I managed to get a graphics card with the help of this script :)!
