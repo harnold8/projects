@@ -8,7 +8,7 @@ In this example, the Dijkstra algorithm can be seen. The orange node depicts the
 ![](pathfinding_algorithms/dijk.gif)
 
 ## Sudoku Solver
-For this project I implemented a Sudoku solver with a non-recursive Backtracking algorithm (**in C++ and Python**). 
+For this project I implemented a Sudoku solver (for a 9x9 grid) with a non-recursive Backtracking algorithm (in C++ and Python). The plan is to extend this project in the future, by reading Sudokus with text recognition (OCR) into the data structure.
 
 ## Scraper Script
 A scraper script I used at the launch of new graphics cards. Even though the demand for the product was higher than its availability, I managed to get a graphics card with the help of this script :)!
